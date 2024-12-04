@@ -1,0 +1,23 @@
+.main{
+    text-align: center;
+}
+.a,.b,.c,.d,.e,.f,.g,.h{
+    width:230px;
+    margin:20px;
+    display:inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+img{
+    width:100%;
+    vertical-align: top;
+}
+h1{
+    font-size:medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
